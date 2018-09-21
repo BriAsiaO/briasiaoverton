@@ -1,0 +1,27 @@
+h1 {
+  color: #698100;
+
+}
+.container {
+  background-color: Black;
+  color: white;
+}
+.ul {
+
+}
+.navbar li {
+    display: inline-block;
+
+}
+.navbar {
+  background-image: url("./images/nature.jpg");
+  background-repeat: no-repeat;
+}
+.login {
+    float:right;
+    color: maroon;
+
+}
+.login-btn a{
+  position: relative;
+}
